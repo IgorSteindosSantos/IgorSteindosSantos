@@ -17,6 +17,9 @@ Sou **desenvolvedor Fullstack**, apaixonado por tecnologia e por criar soluçõe
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40" title="Bootstrap" />
 </div>
 
+<br />
+<br />
+
 <div align="center">
   🚀 Sempre em busca de novos aprendizados e desafios no mundo do desenvolvimento de sistemas!
 </div>
